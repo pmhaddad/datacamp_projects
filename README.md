@@ -14,7 +14,7 @@ will get to explore the Rebrickable database. To do this you need to know your
 way around `pandas` dataframes and it's recommended that you take a look at the 
 courses **pandas Foundations** and **Manipulating DataFrames with pandas**.
 
-> [Click here](python/1_exploring_67_years_of_lego/notebook.ipynb) to access the Jupyter notebook
+> [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/1_exploring_67_years_of_lego/notebook.ipynb) to access a rendered version of the Jupyter notebook
 
 ### R projects
 

@@ -6,7 +6,7 @@ Projects are divided by language: `Python` or `R`.
 
 ### Python projects
 
-1. **Exploring 67 years of LEGO**<br/>
+**1. Exploring 67 years of LEGO**<br/>
 The Rebrickable database includes data on every LEGO set that has ever been 
 sold; the names of the sets, what bricks they contain, what color the bricks 
 are, etc. It might be small bricks, but this is big data! In this project, you 
@@ -16,7 +16,8 @@ courses **pandas Foundations** and **Manipulating DataFrames with pandas**.
 
 > [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/1_exploring_67_years_of_lego/notebook.ipynb) to access a rendered version of the Jupyter notebook
 
-2. **Dr. Semmelweis and the Discovery of Handwashing**<br/>
+
+**2. Dr. Semmelweis and the Discovery of Handwashing**<br/>
 In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: 
 He discovers handwashing. Contaminated hands was a major cause of childbed fever 
 and by enforcing handwashing at his hospital he saved hundreds of lives.
@@ -25,7 +26,8 @@ This project assumes that you are familiar with python and pandas DataFrames.
 You can learn the required skills in these courses: **Intermediate Python for 
 Data Science** and **pandas Foundations**.
 
-> [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/2_dr_semmelweis_handwashing_discovery/notebook.ipynb) to access a rendered version of the Jupyter notebook)
+> [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/2_dr_semmelweis_handwashing_discovery/notebook.ipynb) to access a rendered version of the Jupyter notebook
+
 
 ### R projects
 

@@ -16,6 +16,17 @@ courses **pandas Foundations** and **Manipulating DataFrames with pandas**.
 
 > [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/1_exploring_67_years_of_lego/notebook.ipynb) to access a rendered version of the Jupyter notebook
 
+2. **Dr. Semmelweis and the Discovery of Handwashing**<br/>
+In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: 
+He discovers handwashing. Contaminated hands was a major cause of childbed fever 
+and by enforcing handwashing at his hospital he saved hundreds of lives.
+In this python project we will reanalyze the medical data Semmelweis collected. 
+This project assumes that you are familiar with python and pandas DataFrames. 
+You can learn the required skills in these courses: **Intermediate Python for 
+Data Science** and **pandas Foundations**.
+
+> [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/2_dr_semmelweis_handwashing_discovery/notebook.ipynb) to access a rendered version of the Jupyter notebook)
+
 ### R projects
 
 Nothing to place here so far ;) 

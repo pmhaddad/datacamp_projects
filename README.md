@@ -6,7 +6,7 @@ Projects are divided by language: `Python` or `R`.
 
 ## Python projects
 
-###1. Exploring 67 years of LEGO
+### 1. Exploring 67 years of LEGO
 
 The Rebrickable database includes data on every LEGO set that has ever been 
 sold; the names of the sets, what bricks they contain, what color the bricks 
@@ -19,7 +19,7 @@ courses **pandas Foundations** and **Manipulating DataFrames with pandas**.
 
 <br/>
 
-###2. Dr. Semmelweis and the Discovery of Handwashing
+### 2. Dr. Semmelweis and the Discovery of Handwashing
 
 In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: 
 He discovers handwashing. Contaminated hands was a major cause of childbed fever 
@@ -35,7 +35,7 @@ Data Science** and **pandas Foundations**.
 
 ## R projects
 
-###1.Phyllotaxis: Draw Flowers Using Mathematics
+### 1.Phyllotaxis: Draw Flowers Using Mathematics
 
 R is a tool for doing serious statistics and data analysis. But not everything 
 in life can be serious, life is also beautiful, and R can make beautiful things 

@@ -33,9 +33,24 @@ Data Science** and **pandas Foundations**.
 
 <br/>
 
+### 3. Exploring the Bitcoin Cryptocurrency Market
+
+To better understand the growth and impact of Bitcoin and other cryptocurrencies 
+you will, in this project, explore the market capitalization of different cryptocurrencies.<br/>
+**Warning**: The cryptocurrency market is exceptionally volatile, and any money you put in 
+might disappear into thin air. Never invest money you can't afford to lose.<br/>
+To complete this project, you need to be fluent with pandas DataFrames. Before 
+starting this project, we recommend that you have completed the following courses:
+**pandas Foundations**, **Manipulating DataFrames with pandas** and **Cleaning Data in Python**
+
+> [Click here](https://nbviewer.jupyter.org/github/pmhaddad/datacamp_projects/blob/master/python/3_exploring_bitcoin_cryptocurrency_market/notebook.ipynb) to access a rendered version of the Jupyter notebook
+
+<br/>
+
+
 ## R projects
 
-### 1.Phyllotaxis: Draw Flowers Using Mathematics
+### 1. Phyllotaxis: Draw Flowers Using Mathematics
 
 R is a tool for doing serious statistics and data analysis. But not everything 
 in life can be serious, life is also beautiful, and R can make beautiful things 
